@@ -186,5 +186,9 @@ button:hover {
   .slider .card {
     flex: 0 0 33.33%;
   }
+  .container {
+    grid-template-columns: repeat(2, 2fr);
+    width: 100%;
+  }
 }
 
